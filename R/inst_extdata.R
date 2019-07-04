@@ -18,5 +18,5 @@
 #' @section FASTA file:
 #' NCBI RefSeq FASTA file used for MS/MS searches
 #'
-#' \code{system.file("extdata/motrpac_pilot_global/Rattus_norvegicus_NCBI_RefSeq_2018-04-10.fasta.gz", package = "PlexedPiperTestData")}
+#' \code{system.file("extdata/Rattus_norvegicus_NCBI_RefSeq_2018-04-10.fasta.gz", package = "PlexedPiperTestData")}
 NULL
