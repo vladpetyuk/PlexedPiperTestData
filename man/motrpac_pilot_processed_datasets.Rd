@@ -12,19 +12,19 @@ global data. Phospho will be added in the future.
 \section{MASIC output}{
 
 
-\code{system.file("extdata/motrpac_pilot_global/masic_output", package = "PlexedPiperTestData")}
+\code{system.file("extdata/global/masic_output", package = "PlexedPiperTestData")}
 }
 
 \section{MS-GF+ output}{
 
 
-\code{system.file("extdata/motrpac_pilot_global/msgf_output", package = "PlexedPiperTestData")}
+\code{system.file("extdata/global/msgf_output", package = "PlexedPiperTestData")}
 }
 
 \section{FASTA file}{
 
 NCBI RefSeq FASTA file used for MS/MS searches
 
-\code{system.file("extdata/motrpac_pilot_global/Rattus_norvegicus_NCBI_RefSeq_2018-04-10.fasta.gz", package = "PlexedPiperTestData")}
+\code{system.file("extdata/Rattus_norvegicus_NCBI_RefSeq_2018-04-10.fasta.gz", package = "PlexedPiperTestData")}
 }
 
