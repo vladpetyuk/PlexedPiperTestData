@@ -1,0 +1,13 @@
+Package: PlexedPiperTestData
+Type: Package
+Title: Example of MASIC and MS-GF+ ouput
+Version: 0.1.0
+Author: Vladislav Petyuk
+Maintainer: Vladislav Petyuk <vladislav.petyuk@pnnl.gov>
+Description: Example of MASIC and MS-GF+ ouput based on MoTrPAC pilot study. 
+   The sole purpuse of this package is to suppored PlexedPiper package that 
+   contans TMT processing pipeline.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
