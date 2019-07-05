@@ -8,3 +8,4 @@ remotes::install_github("vladpetyuk/PlexedPiperTestData")
 library(PlexedPiperTestData)
 ?motrpac_pilot_processed_datasets
 ```
+Companion package for [PlexedPiper](https://github.com/vladpetyuk/PlexedPiper)
