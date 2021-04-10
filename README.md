@@ -1,7 +1,7 @@
 # PlexedPiperTestData
 
 R package with processed example of TMT dataset. The example is based on MoTrPAC
-pilot data. Proteomics and phosphoproteomics of exercised vs senentary rat muscle.
+pilot data. Proteomics and phosphoproteomics of exercised vs sedentary rat muscle.
 
 ```{r}
 remotes::install_github("vladpetyuk/PlexedPiperTestData")
